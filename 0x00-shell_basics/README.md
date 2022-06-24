@@ -1,1 +1,1 @@
-To home
+All details
