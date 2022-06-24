@@ -1,1 +1,1 @@
-Hide
+Display all the content
