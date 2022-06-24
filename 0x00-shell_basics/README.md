@@ -1,1 +1,1 @@
-All details
+Hide
