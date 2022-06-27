@@ -1,3 +1,2 @@
-TASK 21
 #!/bin/bash
-rev
+echo "Reverse">esreveR
